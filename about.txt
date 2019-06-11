@@ -1,0 +1,1 @@
+Deliver Cassandra as a service using the capabilities of Azure Cosmos DB. Use Cassandra SDKs and tools, including existing drivers, to build applications at near-infinite, global scale with SLA-backed capabilities of the Azure Cosmos DB platform.
